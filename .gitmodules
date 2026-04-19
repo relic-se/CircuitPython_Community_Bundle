@@ -526,3 +526,6 @@
 [submodule "libraries/helpers/bambulabs"]
 	path = libraries/helpers/bambulabs
 	url = https://github.com/prcutler/CircuitPython_bambulabs.git
+[submodule "libraries/helpers/stat"]
+	path = libraries/helpers/stat
+	url = https://github.com/relic-se/CircuitPython_stat.git
