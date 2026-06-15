@@ -527,5 +527,5 @@
 	path = libraries/helpers/bambulabs
 	url = https://github.com/prcutler/CircuitPython_bambulabs.git
 [submodule "libraries/sevenseg"]
-	path = libraries/sevenseg
+	path = libraries/helpers/sevenseg
 	url = https://github.com/kritishmohapatra/circuitpython-sevenseg.git
