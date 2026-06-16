@@ -180,5 +180,6 @@ There are 177 libraries available.
 * [circuitpython waveviz](https://github.com/cedargrovestudios/circuitpython_waveviz.git)
 * [circuitpython-ehttpserver](https://github.com/bablokb/circuitpython-ehttpserver.git)
 * [circuitpython-iperf](https://github.com/bablokb/circuitpython-iperf.git)
+* [circuitpython-sevenseg](https://github.com/kritishmohapatra/circuitpython-sevenseg.git) ([PyPi](https://pypi.org/project/circuitpython-sevenseg))
 * [cp-buzzer-music](https://github.com/bablokb/cp-buzzer-music.git)
 * [nonblocking timer](https://github.com/Angeleno-Tech/nonblocking_timer.git) ([Docs](https://circuitpython-nonblocking_timer.readthedocs.io/))
