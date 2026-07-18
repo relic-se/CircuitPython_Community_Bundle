@@ -529,3 +529,6 @@
 [submodule "libraries/sevenseg"]
 	path = libraries/helpers/sevenseg
 	url = https://github.com/kritishmohapatra/circuitpython-sevenseg.git
+[submodule "libraries/drivers/ds1302"]
+	path = libraries/drivers/ds1302
+	url = https://github.com/Elfking29/CircuitPython_DS1302.git
