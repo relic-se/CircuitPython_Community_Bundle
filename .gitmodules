@@ -532,3 +532,6 @@
 [submodule "libraries/drivers/ds1302"]
 	path = libraries/drivers/ds1302
 	url = https://github.com/Elfking29/CircuitPython_DS1302.git
+[submodule "libraries/drivers/KineticRGB"]
+	path = libraries/drivers/KineticRGB
+	url = https://github.com/Kinetic-Technologies-Inc/CircuitPython_KineticRGB.git
