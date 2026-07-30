@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/Adafruit_CircuitPython_Bundle/main/assets/BlinkaBook.png)  
 Here is a listing of current Adafruit CircuitPython Libraries.  
-There are 178 libraries available.
+There are 179 libraries available.
 
 ## Drivers:
 * [Adafruit Soundboard](https://github.com/mmabey/Adafruit_Soundboard.git)
@@ -26,6 +26,7 @@ There are 178 libraries available.
 * [CircuitPython HX711](https://github.com/fivesixzero/CircuitPython_HX711.git) ([Docs](https://circuitpython-hx711.readthedocs.io/))
 * [CircuitPython I2C Expanders](https://github.com/ilikecake/CircuitPython_I2C_Expanders.git) ([PyPi](https://pypi.org/project/circuitpython-i2c-expanders)) ([Docs](https://circuitpython-i2c-expanders.readthedocs.io/))
 * [CircuitPython INA3221](https://github.com/barbudor/CircuitPython_INA3221.git) ([Docs](https://circuitpython-ina3221.readthedocs.io/en/latest/))
+* [CircuitPython KineticRGB](https://github.com/Kinetic-Technologies-Inc/CircuitPython_KineticRGB.git) ([Docs](https://circuitpython-kineticrgb.readthedocs.io/))
 * [CircuitPython LILYGO T-Deck](https://github.com/rgrizzell/CircuitPython_LILYGO_T-Deck.git) ([PyPi](https://pypi.org/project/circuitpython-lilygo-t-deck)) ([Docs](https://circuitpython-lilygo-t-deck.readthedocs.io/))
 * [CircuitPython M5Stack PbHub](https://github.com/CDarius/CircuitPython_M5Stack_PbHub.git) ([Docs](https://circuitpython-m5stack-pbhub.readthedocs.io/))
 * [CircuitPython MCP48XX](https://github.com/brushmate/CircuitPython_MCP48XX.git) ([PyPi](https://pypi.org/project/circuitpython-mcp48xx)) ([Docs](https://circuitpython-mcp48xx.readthedocs.io/))
