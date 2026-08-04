@@ -535,3 +535,6 @@
 [submodule "libraries/drivers/KineticRGB"]
 	path = libraries/drivers/KineticRGB
 	url = https://github.com/Kinetic-Technologies-Inc/CircuitPython_KineticRGB.git
+[submodule "libraries/drivers/m5paper_epd"]
+	path = libraries/drivers/m5paper_epd
+	url = https://github.com/Freyr86/m5paper_epd.git
