@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/Adafruit_CircuitPython_Bundle/main/assets/BlinkaBook.png)  
 Here is a listing of current Adafruit CircuitPython Libraries.  
-There are 179 libraries available.
+There are 180 libraries available.
 
 ## Drivers:
 * [Adafruit Soundboard](https://github.com/mmabey/Adafruit_Soundboard.git)
@@ -88,6 +88,7 @@ There are 179 libraries available.
 * [circuitpython-serial-tft](https://github.com/bablokb/circuitpython-serial-tft.git)
 * [creativecontrol CircuitPython LTC166X](https://github.com/creativecontrol/creativecontrol_CircuitPython_LTC166X.git) ([PyPi](https://pypi.org/project/creativecontrol-circuitpython-ltc166x))
 * [jled-circuitpython](https://github.com/jandelgado/jled-circuitpython)
+* [m5paper epd](https://github.com/Freyr86/m5paper_epd.git)
 * [slight CircuitPython TLC5957](https://github.com/s-light/slight_CircuitPython_TLC5957.git) ([Docs](.. https://circuitpython.readthedocs.io/projects/tlc5957/en/latest/))
 
 ## Helpers:
