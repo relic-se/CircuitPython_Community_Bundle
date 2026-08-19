@@ -538,3 +538,6 @@
 [submodule "libraries/drivers/m5paper_epd"]
 	path = libraries/drivers/m5paper_epd
 	url = https://github.com/Freyr86/m5paper_epd.git
+[submodule "libraries/helpers/synthtools"]
+	path = libraries/helpers/synthtools
+	url = https://github.com/todbot/CircuitPython_SynthTools.git
